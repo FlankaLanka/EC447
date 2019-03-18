@@ -1,0 +1,20 @@
+C:\Desktop\EC447\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Desktop\EC447\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Desktop\EC447\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Desktop\EC447\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Desktop\EC447\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Desktop\EC447\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Desktop\EC447\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Desktop\EC447\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Desktop\EC447\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Desktop\EC447\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Frank Yang\Desktop\EC447\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\Frank Yang\Desktop\EC447\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Users\Frank Yang\Desktop\EC447\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\Frank Yang\Desktop\EC447\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\Frank Yang\Desktop\EC447\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Frank Yang\Desktop\EC447\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\Frank Yang\Desktop\EC447\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Frank Yang\Desktop\EC447\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Frank Yang\Desktop\EC447\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\Frank Yang\Desktop\EC447\Lab1\Lab1\bin\Debug\Lab1.pdb
